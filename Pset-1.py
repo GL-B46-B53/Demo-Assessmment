@@ -1,5 +1,7 @@
 def temp_converter(fahrenheit):
-    ''' Fahrenheit to Celsius '''
+    ''' param : fahrenheit float
+returns celsius float
+'''
     return 5*(fahrenheit-32)/9 
 
 
